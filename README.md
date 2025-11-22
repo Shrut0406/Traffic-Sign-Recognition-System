@@ -24,7 +24,7 @@ The trained model achieves:
 
 ## 📂 Project Structure
 
-traffic-sign-recognition/
+```traffic-sign-recognition/
 │
 ├── data/
 │ ├── Train/ # Training images (43 classes)
@@ -48,6 +48,7 @@ traffic-sign-recognition/
 ├── main.py
 ├── requirements.txt
 └── README.md
+```
 
 
 ---
@@ -107,7 +108,6 @@ Additional evaluation includes:
 
 ### 1️⃣ Install dependencies
 
-```bash
 pip install -r requirements.txt
 
 2️⃣ (Optional) Create & activate a virtual environment
@@ -146,8 +146,6 @@ Upload a traffic sign image to get real-time predictions.
 📝 Credits
 
 Dataset: GTSRB — German Traffic Sign Recognition Benchmark
-
 Frameworks: TensorFlow, Keras, Streamlit, scikit-learn
-
 Developed by: Shruti Khandelwal
 
