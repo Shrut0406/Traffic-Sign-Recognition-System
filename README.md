@@ -143,9 +143,15 @@ After launching, visit:
 
 Upload a traffic sign image to get real-time predictions.
 
-📝 Credits
+## 📄 Credits
 
-Dataset: GTSRB — German Traffic Sign Recognition Benchmark
-Frameworks: TensorFlow, Keras, Streamlit, scikit-learn
-Developed by: Shruti Khandelwal
+- **Dataset:**  
+  GTSRB — German Traffic Sign Recognition Benchmark  
+
+- **Frameworks:**  
+  TensorFlow, Keras, Streamlit, scikit-learn  
+
+- **Developed by:**  
+  Shruti Khandelwal  
+
 
